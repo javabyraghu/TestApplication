@@ -1,5 +1,15 @@
+<<<<<<< HEAD
 first one
 Hello
 from application
 sample
 data
+=======
+fine
+hello
+one
+welcome
+data
+fine
+test
+>>>>>>> 90d8ea75c38a187d34d823a173d2519057ee45fb
